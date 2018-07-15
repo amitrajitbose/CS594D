@@ -17,7 +17,7 @@ $ cd <Program Folder>
 $ javac <Filename>.java
 $ java <Main Classname/Filename>
 ```
-Development & maintenance done by [Amitrajit Bose](mailto:amitrajitbose@gmail.com).
+Development & maintenance done by [Amitrajit Bose](https://in.linkedin.com/in/amitrajitbose).
 
 #### Tutorials
 
