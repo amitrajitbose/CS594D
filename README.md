@@ -18,3 +18,12 @@ $ javac <Filename>.java
 $ java <Main Classname/Filename>
 ```
 Development & maintenance done by [Amitrajit Bose](mailto:amitrajitbose@gmail.com).
+
+#### Tutorials
+
+- [BeginnersBook](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
+- [JavaTPoint](https://www.javatpoint.com/java-tutorial)
+- [Udemy](https://www.udemy.com/java-tutorial/)
+- [Tutorials Point](https://www.tutorialspoint.com/java/)
+- [Guru99](https://www.guru99.com/java-tutorial.html)
+- [JournalDev](https://www.journaldev.com/7153/core-java-tutorial)
