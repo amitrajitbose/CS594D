@@ -1,3 +1,4 @@
+//Merge two float arrays
 import java.util.Scanner;
 class SecondHigh
 {

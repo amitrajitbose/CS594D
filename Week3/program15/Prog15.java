@@ -1,3 +1,4 @@
+//Print second highest of an array
 import java.util.Scanner;
 class SecondHigh
 {
