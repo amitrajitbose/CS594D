@@ -3,7 +3,7 @@
 ## Object Oriented Programming using Java
 #### B.Tech 5th Semester Coursework - CS504D & CS594D
 
-Contains various related programs in Java language. Most of the programs have been designed in preference with Object Oriented Programming paradigm. Please note that the repository contains programs done during coursework and for tutorial purpose. They are not designed for commercial use.
+Contains various programs in Java language. Most of the programs have been designed in preference with Object Oriented Programming paradigm. Please note that the repository contains programs done during coursework and for tutorial purpose. They are not designed for commercial use.
 
 It is recommended to use Java version *9.0.1* or higher for running the following programs. 
 Please note that the repository is still under development.
@@ -15,7 +15,7 @@ Please note that the repository is still under development.
 ```sh
 $ cd <Program Folder>
 $ javac <Filename>.java
-$ java <Main Classname/Filename>
+$ java <Driver-Class Name i.e generated in the same folder with .class extension>
 ```
 Development & maintenance done by [Amitrajit Bose](https://in.linkedin.com/in/amitrajitbose).
 
@@ -27,3 +27,4 @@ Development & maintenance done by [Amitrajit Bose](https://in.linkedin.com/in/am
 - [Tutorials Point](https://www.tutorialspoint.com/java/)
 - [Guru99](https://www.guru99.com/java-tutorial.html)
 - [JournalDev](https://www.journaldev.com/7153/core-java-tutorial)
+- [LearnJavaOnline](http://www.learnjavaonline.org/)
